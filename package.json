@@ -1,6 +1,6 @@
 {
   "name": "vixtir_super_function",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test npm and ga",
   "files": [
     "/lib/**/*"
